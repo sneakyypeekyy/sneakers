@@ -273,3 +273,16 @@ h2{
 
 
 }
+.nav-link{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.2rem;
+    color: #e6d9db;
+    text-decoration: none;
+}
+
+a{
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 20px;
+    padding-right: 15px;
+}
